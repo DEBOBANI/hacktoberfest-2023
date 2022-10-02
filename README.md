@@ -9,8 +9,13 @@ How and What can I Contribute❓
 It's very easy. Follow the below steps you need to create your -(maybe)- EXAMPLE first pull request.
 
 1. Fork this repository by click the Fork button in the top right of this page.
-2. Create a new file and **add** a new Program code in programming languages C++, Python (Note: Program must not be exist already in this repository).Also add litte details about you in starting.
-4.Set the file name with Topic/program-name.md
+
+2. Create a new file and **add** a new Program code in programming languages C++, Python (Note: Program must not be exist already in this repository).
+
+3. Also add litte details about you in starting.
+
+4. Set the file name with Topic/program-name.md or add files with extensions like .cpp or.py in particular folder.
+You can add cpp file in C++ folder and python file in Python folder.
 ### YOUR FULL NAME
 
 - Program Language 
