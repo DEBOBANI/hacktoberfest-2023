@@ -1,4 +1,6 @@
 # Hacktoberfest-2022- Contribute to open source
+![image](https://user-images.githubusercontent.com/113405820/193466421-b4d5965c-b38c-4794-a4f3-7f3c56cee7da.png)
+
 This repo is specially for beginners who are new to open source.
 
 Create your first Pull Request 👍(PR) and help contributing to open-source and help everyone with this repository.
