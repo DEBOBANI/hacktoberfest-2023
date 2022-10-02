@@ -1,3 +1,7 @@
+# Announcement⚠️
+Hi Everyone,this is to that this inform you all that this repo is been excluded from hacktoberfest.
+So,your newer pull requests will not be counted for for hacktoberfest.
+
 # Hacktoberfest-2022- Contribute to open source
 ![image](https://user-images.githubusercontent.com/113405820/193466421-b4d5965c-b38c-4794-a4f3-7f3c56cee7da.png)
 
